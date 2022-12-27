@@ -1,0 +1,24 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Facebook.com/Notifikasi_Login/P_User Tidak Di Temukan",
+      "brokenLocator": "//*[(text() \u003d concat(\"The email address or mobile number you entered isn\" , \"\u0027\" , \"t connected to an account. Create a new Facebook account.\") or . \u003d concat(\"The email address or mobile number you entered isn\" , \"\u0027\" , \"t connected to an account. Create a new Facebook account.\"))]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Log in\u0027])[1]/preceding::div[7]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Facebook.com/Notifikasi_Login/P_User Tidak Di Temukan_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook  log in or sign up/button_Log in",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_82\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Facebook helps you connect and share with the people in your life.\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Facebook  log in or sign up/button_Log in_neighbor.png"
+    }
+  ]
+}

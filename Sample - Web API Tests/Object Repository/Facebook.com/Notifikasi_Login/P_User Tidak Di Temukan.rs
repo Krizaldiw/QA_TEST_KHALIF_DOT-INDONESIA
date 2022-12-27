@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>P_User Tidak Di Temukan</name>
+   <tag></tag>
+   <elementGuidId>fa665073-eaf9-4580-a7a2-a09f3d010a80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email_container']/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = concat(&quot;The email address or mobile number you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Create a new Facebook account.&quot;) or . = concat(&quot;The email address or mobile number you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Create a new Facebook account.&quot;))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1aa8e202-6557-451e-8bf5-19f1d3caa2ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>3b80a994-d79a-4ba8-a56b-1f1b946804d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The email address or mobile number you entered isn't connected to an account. Create a new Facebook account.</value>
+      <webElementGuid>409cff8c-3244-420b-88d7-35537a42e87c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>ed0cce12-4db7-4000-949a-37e298409cd0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email_container']/div[2]</value>
+      <webElementGuid>4b707289-7dcc-4c5d-bf59-95f90f38ce6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to Facebook'])[2]/following::div[5]</value>
+      <webElementGuid>a2f84c35-af29-4d47-b656-abf400d0db6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[7]</value>
+      <webElementGuid>7f5daa5d-5054-4587-8985-629215ffa7f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>f185c037-3761-44c2-a042-6a5c6cf25d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The email address or mobile number you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Create a new Facebook account.&quot;) or . = concat(&quot;The email address or mobile number you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Create a new Facebook account.&quot;))]</value>
+      <webElementGuid>77ae7bc5-9011-4c93-bd39-df9da00ba736</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
